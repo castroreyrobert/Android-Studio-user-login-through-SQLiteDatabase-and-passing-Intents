@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Basic Log In</string>
+    <string name="user_log_in">User Log In</string>
+    <string name="username">Username:</string>
+    <string name="password">Password:</string>
+    <string name="log_in">Log In</string>
+    <string name="welcome">Welcome!</string>
+    <string name="attempts">Attempts:</string>
+    <string name="proceed">Proceed</string>
+    <string name="close">Close</string>
+    <string name="switch_image">Switch Image</string>
+    <string name="_42">42</string>
+    <string name="what_is_the_product_of_6_x_7">What is the product of 6 x 7?</string>
+    <string name="_45">45</string>
+    <string name="_37">37</string>
+    <string name="select">Select</string>
+    <string name="what_is_the_difference_of_56_7">What is the difference of 56 - 7?</string>
+
+</resources>
